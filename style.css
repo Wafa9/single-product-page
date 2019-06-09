@@ -1,0 +1,15 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+html {
+  font-family: "Roboto Lt";
+  font-size: 10px;
+  color: #333;
+}
+header {
+  width: 100%;
+  height: 100vh;
+  position: relative;
+}
