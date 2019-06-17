@@ -6,6 +6,6 @@ $(function() {
 
   $(".overlay").on("click", function() {
     $("nav").removeClass("active");
-    $(this).removeClass("menu-open");
+    $("overlay").removeClass("menu-open");
   });
 });
